@@ -1,6 +1,6 @@
 # GitHub Setup Activity
 
-Name: (Your Name)
+Name: Harshini.M
 Department: ECE
 Purpose: Learning GitHub basics
 
